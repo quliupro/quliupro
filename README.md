@@ -1,39 +1,22 @@
 # 程序员自媒体内容营销指南
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+「趣流Pro」团队专注于解决软件产品内容营销难题，如果你在推广软件过程中遇到下列问题：  
+1、没有时间制作推广内容  
+2、没有场景设备和演员  
+3、不擅长拍摄和后期剪辑  
+4、不知道什么内容适合我的产品  
+5、... ...  
 
-#### 软件架构
-软件架构说明
+「趣流Pro」团队都可以帮你解决！无需专门招聘员工从0开始做推广，直接联系我们，低投入高产出，让你无后顾之忧！快速在新媒体领域试水！
+在这个流量时代，做软件产品犹如逆水行舟，早一点推广，从今天起积累内容，就能在未来领先同行一大步!  
 
+趣流官网：quliupro.com（成功案例合集）  
 
-#### 安装教程
+github/gitee：程序员自媒体内容营销指南（每天更新软件类视频脚本和推广案例拆解）  
+新媒体全平台同名:趣流Pro
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+**欢迎关注我们的Github/Gitee：程序员自媒体内容营销指南（每天更新软件类视频脚本和推广案例拆解）**
 
-#### 使用说明
+不积跬步无以至千里，「趣流Pro」团队诞生于软件研发团队，多年来持续输出内容，帮助自家产品累计曝光超800w+，如今以更热爱、更专业的态度帮助软件同行推广，欢迎线上/线下找我交流推广经验！
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![欢迎添加企微和我交流推广经验](https://server.soniceapp.com/uploads/images/20241101/20241101101057cc5000119.jpeg)
